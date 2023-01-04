@@ -1,0 +1,233 @@
+Source,Destination IP,Volume,Destination Domain,Destination Latitude,Destination Longitude
+Nestcam,35.232.242.251,129651062,bc.googleusercontent.com,41.23295975,-95.87735748
+Google onHub,172.217.7.202,216844082,1e100.net,38.98371887,-77.38275909
+Samsung Smartthings hub2,3.12.29.221,24141096,compute.amazonaws.net,39.99557877,-82.99945831
+Motog Phone,172.217.9.194,23231149,1e100.net,38.98371887,-77.38275909
+Desktop (server),152.1.224.188,4360920,unity.ncsu.edu,35.73759079,-78.72119141
+Motog Phone,34.231.95.236,15222924,compute.amazonaws.net,39.04370117,-77.47419739
+Echo plus 2nd gen,52.216.237.91,11204688,amazonaws.com,39.04370117,-77.47419739
+Smartwifiplug,52.38.63.250,3204019,compute.amazonaws.net,45.73722839,-119.8114319
+Google onHub,52.38.63.250,3757633,compute.amazonaws.net,45.73722839,-119.8114319
+Motog Phone,99.84.184.36,8063639,r.cloudfront.net,38.9068985,-77.02839661
+Ring Door bell,8.8.8.8,2175606,dns.google,37.38801956,-122.0743103
+Samsung Smartthings hub2,18.208.86.167,24676369,compute.amazonaws.net,39.04370117,-77.47419739
+Echo plus 2nd gen,13.249.34.222,2072074,r.cloudfront.net,38.9068985,-77.02839661
+Google onHub,8.8.8.8,1151905,dns.google,37.38801956,-122.0743103
+Motog Phone,216.239.35.8,1620,time3.google.com,37.41915894,-122.0754089
+Motog Phone,35.196.141.223,90961,bc.googleusercontent.com,32.8900795,-80.05893707
+Desktop (server),152.1.0.81,38771144,eos.ncsu.edu,35.73759079,-78.72119141
+Motog Phone,35.245.250.220,63012,bc.googleusercontent.com,38.9068985,-77.02839661
+Ring Door bell,52.1.10.91,287676838,compute.amazonaws.net,39.04370117,-77.47419739
+Google onHub,52.1.10.91,285738369,compute.amazonaws.net,39.04370117,-77.47419739
+Ring Door bell,107.170.29.136,90,booboo.raggedstaff.net,40.75891113,-73.97901917
+Google onHub,107.170.29.136,90,booboo.raggedstaff.net,40.75891113,-73.97901917
+Motog Phone,216.239.35.4,720,time2.google.com,37.41915894,-122.0754089
+Motog Phone,130.211.5.107,433013,bc.googleusercontent.com,39.10771179,-94.53961182
+Ring Door bell,96.245.170.99,90,B1-66ER.matrix.gs,39.99266815,-75.14150238
+Google onHub,96.245.170.99,90,B1-66ER.matrix.gs,39.99266815,-75.14150238
+Motog Phone,72.21.206.140,150895,amazon.com,39.04370117,-77.47419739
+Echo plus 2nd gen,35.186.218.191,17902,bc.googleusercontent.com,39.10771179,-94.53961182
+Echo plus 2nd gen,13.226.143.179,2169,r.cloudfront.net,41.84885025,-87.67124939
+Motog Phone,72.21.206.56,1213113,amazon.com,39.04370117,-77.47419739
+Echo Look,99.84.181.95,3930121,r.cloudfront.net,38.9068985,-77.02839661
+Desktop (server),91.189.91.38,33608,banjo.canonical.com,51.45777893,-0.085560001
+Desktop (server),91.189.95.83,16970,haetae.canonical.com,51.45777893,-0.085560001
+Desktop (server),99.84.181.56,935755,r.cloudfront.net,38.9068985,-77.02839661
+Desktop (server),172.217.15.78,4822367,1e100.net,38.98371887,-77.38275909
+Desktop (server),91.189.91.39,164654,kazooie.canonical.com,51.45777893,-0.085560001
+Desktop (server),104.236.0.104,12000,download.sublimetext.com,40.75891113,-73.97901917
+Desktop (server),91.189.92.20,71816,api.snapcraft.io,51.45777893,-0.085560001
+Desktop (server),91.189.92.17,69870,dashboard.snapcraft.io,51.45777893,-0.085560001
+Motog Phone,216.239.35.12,1800,time4.google.com,37.41915894,-122.0754089
+Desktop (server),51.15.67.4,779720,instances.scw.cloud,52.30905151,4.940189838
+Desktop (server),8.43.85.14,22133,oscp-router02.gnome.org,35.77521133,-78.63432312
+Motog Phone,104.70.71.76,52667,akamaitechnologies.com,39.04370117,-77.47419739
+Desktop (server),34.249.145.219,33803,compute.amazonaws.net,53.35388947,-6.243330002
+Motog Phone,35.193.104.166,101598,bc.googleusercontent.com,41.23295975,-95.87735748
+Echo Look,107.175.144.206,90,zinc.frizzen.net,42.90758133,-78.81912994
+Echo plus 2nd gen,138.236.128.36,180,four10.gac.edu,44.35557938,-94.08920288
+Motog Phone,54.176.221.190,281166,compute.amazonaws.net,37.33052826,-121.8382263
+Motog Phone,31.13.66.4,60690,facebook.com,38.98371887,-77.38275909
+Ring Door bell,208.79.89.249,90,zeit.arpnetworks.com,34.06459045,-118.3813705
+Google onHub,208.79.89.249,90,zeit.arpnetworks.com,34.06459045,-118.3813705
+Desktop (server),91.189.88.152,587217,actiontoad.canonical.com,51.45777893,-0.085560001
+Desktop (server),91.189.92.19,2770,api.snapcraft.io,51.45777893,-0.085560001
+Desktop (server),91.189.92.18,48228,dashboard.snapcraft.io,51.45777893,-0.085560001
+Desktop (server),91.189.88.142,353793,aerodent.canonical.com,51.45777893,-0.085560001
+Desktop (server),8.43.85.13,30900,oscp-router01.gnome.org,35.77521133,-78.63432312
+Desktop (server),91.189.92.38,100684,api.snapcraft.io,51.45777893,-0.085560001
+Desktop (server),91.189.92.41,66500,api.snapcraft.io,51.45777893,-0.085560001
+Echo Look,104.236.52.16,90,ranger.innolan.net,40.75891113,-73.97901917
+Echo plus 2nd gen,162.159.200.1,90,time.cloudflare.com,52.30905151,4.940189838
+Desktop (server),91.189.95.15,5950,rubay.canonical.com,51.45777893,-0.085560001
+Motog Phone,204.85.32.27,151495,akamaitechnologies.com,35.91374969,-78.86332703
+Nestcam,47.190.36.235,450,titan.crash-override.org,33.03276825,-96.5891037
+Ring Door bell,37.193.156.169,90,novotelecom.ru,55.03923035,82.9278183
+Google onHub,37.193.156.169,90,novotelecom.ru,55.03923035,82.9278183
+Ring Door bell,23.131.160.7,90,time.nullroutenetworks.com,47.75529861,-122.2959137
+Google onHub,23.131.160.7,90,time.nullroutenetworks.com,47.75529861,-122.2959137
+Motog Phone,34.218.177.200,717490,compute.amazonaws.net,45.73722839,-119.8114319
+Motog Phone,52.14.82.58,304591,compute.amazonaws.net,39.99557877,-82.99945831
+Motog Phone,54.171.250.15,11857,compute.amazonaws.net,53.35388947,-6.243330002
+Motog Phone,15.164.15.161,13904,compute.amazonaws.net,37.47354889,126.6203613
+Echo plus 2nd gen,72.30.35.88,90,yahoo.com,40.73139191,-73.98840332
+Echo plus 2nd gen,8.8.8.8,243,dns.google,37.38801956,-122.0743103
+Motog Phone,35.156.43.152,28249,compute.amazonaws.net,50.11090088,8.682100296
+LG smart TV,54.69.144.245,1274152,compute.amazonaws.net,45.73722839,-119.8114319
+LG smart TV,23.32.72.82,35309,akamaitechnologies.com,39.04370117,-77.47419739
+LG smart TV,3.224.10.144,6543487,compute.amazonaws.net,39.04370117,-77.47419739
+LG smart TV,23.221.200.105,92810,akamaitechnologies.com,40.75891113,-73.97901917
+LG smart TV,8.8.8.8,25697,dns.google,37.38801956,-122.0743103
+LG smart TV,13.249.43.59,2470695,r.cloudfront.net,38.9068985,-77.02839661
+LG smart TV,172.217.164.173,4510797,1e100.net,38.98371887,-77.38275909
+Desktop (server),204.85.32.26,13589,akamaitechnologies.com,35.91374969,-78.86332703
+Desktop (server),35.169.67.87,1068552,compute.amazonaws.net,39.04370117,-77.47419739
+Desktop (server),52.39.78.187,1033772,compute.amazonaws.net,45.73722839,-119.8114319
+Desktop (server),184.26.48.140,272937,akamaitechnologies.com,39.04370117,-77.47419739
+Desktop (server),34.98.75.36,110164,bc.googleusercontent.com,39.10771179,-94.53961182
+LG smart TV,23.193.32.230,289630,akamaitechnologies.com,38.74621964,-77.48911285
+Google onHub,23.193.32.230,289048,akamaitechnologies.com,38.74621964,-77.48911285
+LG smart TV,31.13.66.35,9935,facebook.com,38.98371887,-77.38275909
+Google onHub,31.13.66.35,7703,facebook.com,38.98371887,-77.38275909
+Google onHub,23.62.24.37,34145,akamaitechnologies.com,39.04370117,-77.47419739
+Desktop (server),23.221.203.195,657801,akamaitechnologies.com,40.75891113,-73.97901917
+Motog Phone,158.69.52.117,7341,prd-usage-3.tjsint.net,45.50207901,-73.56201172
+Echo Look,52.217.42.244,64502680,amazonaws.com,39.04370117,-77.47419739
+Motog Phone,23.227.38.64,6142,shops.myshopify.com,45.44422913,-75.69277954
+Motog Phone,172.217.161.195,7438,1e100.net,34.6709404,135.5075073
+Google onHub,99.86.230.48,2459933,r.cloudfront.net,38.9068985,-77.02839661
+LG smart TV,204.85.32.32,13189,akamaitechnologies.com,35.91374969,-78.86332703
+Google onHub,204.85.32.32,13201,akamaitechnologies.com,35.91374969,-78.86332703
+Google onHub,23.54.179.184,25593,akamaitechnologies.com,40.75891113,-73.97901917
+LG smart TV,94.237.48.90,2018,upcloud.host,51.45777893,-0.085560001
+Google onHub,94.237.48.90,2018,upcloud.host,51.45777893,-0.085560001
+LG smart TV,204.79.197.200,2505,a-msedge.net,47.68050003,-122.1209412
+Google onHub,204.79.197.200,2601,a-msedge.net,47.68050003,-122.1209412
+LG smart TV,34.107.156.205,44322,bc.googleusercontent.com,39.10771179,-94.53961182
+Google onHub,34.107.156.205,44322,bc.googleusercontent.com,39.10771179,-94.53961182
+LG smart TV,50.31.142.63,1457,chi.outbrain.com,41.87712097,-87.62473297
+Google onHub,50.31.142.63,1457,chi.outbrain.com,41.87712097,-87.62473297
+LG smart TV,64.74.236.31,19256,chi.outbrain.com,41.87446976,-87.65006256
+Google onHub,64.74.236.31,17342,chi.outbrain.com,41.87446976,-87.65006256
+LG smart TV,68.67.179.133,7593,adnexus.net,40.73862839,-73.98294067
+Google onHub,68.67.179.133,7593,adnexus.net,40.73862839,-73.98294067
+LG smart TV,50.31.142.31,1652,chi.outbrain.com,41.87712097,-87.62473297
+Google onHub,50.31.142.31,1652,chi.outbrain.com,41.87712097,-87.62473297
+LG smart TV,31.13.66.19,12480,fbcdn.net,38.98371887,-77.38275909
+Google onHub,31.13.66.19,12480,fbcdn.net,38.98371887,-77.38275909
+LG smart TV,64.202.112.63,1520,ny.outbrain.com,41.87712097,-87.62473297
+Google onHub,64.202.112.63,1520,ny.outbrain.com,41.87712097,-87.62473297
+LG smart TV,68.67.179.113,4201,adnexus.net,40.73862839,-73.98294067
+Google onHub,68.67.179.113,4201,adnexus.net,40.73862839,-73.98294067
+LG smart TV,52.58.189.189,3556,compute.amazonaws.net,50.11090088,8.682100296
+Google onHub,52.58.189.189,3556,compute.amazonaws.net,50.11090088,8.682100296
+LG smart TV,23.52.92.88,3816,akamaitechnologies.com,37.33052826,-121.8382263
+Google onHub,23.52.92.88,3828,akamaitechnologies.com,37.33052826,-121.8382263
+LG smart TV,70.42.32.127,1687,ny.outbrain.com,40.74406052,-74.0045929
+Google onHub,70.42.32.127,1687,ny.outbrain.com,40.74406052,-74.0045929
+LG smart TV,18.179.224.21,2040,compute.amazonaws.net,35.69628143,139.7385559
+Google onHub,18.179.224.21,2040,compute.amazonaws.net,35.69628143,139.7385559
+LG smart TV,35.207.24.140,10490,bc.googleusercontent.com,32.8900795,-80.05893707
+Google onHub,35.207.24.140,10490,bc.googleusercontent.com,32.8900795,-80.05893707
+LG smart TV,85.114.159.93,1505,adfarm1.adition.com,51.25780869,6.907919884
+Google onHub,85.114.159.93,1547,adfarm1.adition.com,51.25780869,6.907919884
+LG smart TV,35.188.42.15,4155,bc.googleusercontent.com,41.23295975,-95.87735748
+Google onHub,35.188.42.15,4089,bc.googleusercontent.com,41.23295975,-95.87735748
+LG smart TV,192.132.33.46,2492,46.bidtellect.com,26.4540596,-80.10399628
+Google onHub,192.132.33.46,2492,46.bidtellect.com,26.4540596,-80.10399628
+LG smart TV,185.184.8.30,2098,rtbhouse.net,52.30905151,4.940189838
+Google onHub,185.184.8.30,2098,rtbhouse.net,52.30905151,4.940189838
+LG smart TV,208.185.50.80,5992,zip.zayo.com,39.04370117,-77.47419739
+Google onHub,208.185.50.80,6142,zip.zayo.com,39.04370117,-77.47419739
+LG smart TV,195.181.169.26,2005,new-york-18.cdn77.com,40.75891113,-73.97901917
+Google onHub,195.181.169.26,2005,new-york-18.cdn77.com,40.75891113,-73.97901917
+LG smart TV,208.185.50.90,5745,zip.zayo.com,39.04370117,-77.47419739
+Google onHub,208.185.50.90,5859,zip.zayo.com,39.04370117,-77.47419739
+LG smart TV,74.6.138.75,2200,yahoo.com,40.73139191,-73.98840332
+Google onHub,74.6.138.75,2200,yahoo.com,40.73139191,-73.98840332
+LG smart TV,69.147.82.60,2615,yahoo.com,40.73139191,-73.98840332
+Google onHub,69.147.82.60,2615,yahoo.com,40.73139191,-73.98840332
+LG smart TV,75.98.70.31,2005,g1.v.fwmrm.net,37.53979111,-122.3296967
+Google onHub,75.98.70.31,2101,g1.v.fwmrm.net,37.53979111,-122.3296967
+LG smart TV,69.147.92.11,2466,yahoo.com,38.9068985,-77.02839661
+Google onHub,69.147.92.11,2466,yahoo.com,38.9068985,-77.02839661
+Desktop (server),146.66.91.189,24458,siteground.com,1.287950039,103.8517838
+Desktop (server),31.13.66.19,12185,fbcdn.net,38.98371887,-77.38275909
+Desktop (server),31.13.66.35,109124,facebook.com,38.98371887,-77.38275909
+Desktop (server),68.67.181.202,54361,adnexus.net,40.73862839,-73.98294067
+Desktop (server),35.226.134.247,175119,bc.googleusercontent.com,41.23295975,-95.87735748
+Desktop (server),192.124.249.22,8367,cloudproxy10022.sucuri.net,33.65753174,-117.1891098
+Desktop (server),208.100.17.177,6171,static.steadfastdns.net,41.87446976,-87.65006256
+Desktop (server),23.193.32.26,32369,akamaitechnologies.com,38.74621964,-77.48911285
+Desktop (server),159.127.42.204,4032,iad01-login.dotomi.com,38.98371887,-77.38275909
+Desktop (server),68.67.153.61,3455,adnexus.net,40.73862839,-73.98294067
+Desktop (server),172.106.143.47,3356,unassigned.psychz.net,39.04370117,-77.47419739
+Desktop (server),208.100.17.176,6335,static.steadfastdns.net,41.87446976,-87.65006256
+Desktop (server),68.67.178.15,12094,adnexus.net,40.73862839,-73.98294067
+Desktop (server),208.100.17.183,5125,static.steadfastdns.net,41.87446976,-87.65006256
+Desktop (server),35.211.114.141,14094,bc.googleusercontent.com,32.8900795,-80.05893707
+Desktop (server),69.162.160.31,9644,static.steadfastdns.net,41.87446976,-87.65006256
+Desktop (server),162.223.54.6,6664,tag.apxlv.com,42.36439896,-71.10119629
+Desktop (server),68.67.181.207,10212,adnexus.net,40.73862839,-73.98294067
+Desktop (server),74.6.138.75,3138,yahoo.com,40.73139191,-73.98840332
+Desktop (server),107.154.103.114,26856,ip.incapdns.net,34.04563904,-118.2416382
+Desktop (server),15.222.47.114,2104,compute.amazonaws.net,45.50207901,-73.56201172
+Desktop (server),67.202.110.22,10655,static.steadfastdns.net,41.87446976,-87.65006256
+Desktop (server),13.57.139.30,7466,compute.amazonaws.net,37.33052826,-121.8382263
+Desktop (server),50.116.194.21,724,presentation-atl1.turn.com,37.50516891,-122.2048035
+Desktop (server),147.135.10.58,2220,us003.roqad.pl,38.9068985,-77.02839661
+Desktop (server),75.2.91.175,2706,awsglobalaccelerator.com,38.9068985,-77.02839661
+Desktop (server),18.222.14.79,2884,compute.amazonaws.net,39.99557877,-82.99945831
+Desktop (server),23.227.38.64,1909,shops.myshopify.com,45.44422913,-75.69277954
+Desktop (server),184.87.89.28,134,akamaitechnologies.com,40.73873138,-74.19452667
+Motog Phone,216.239.35.0,2700,time1.google.com,37.41915894,-122.0754089
+Motog Phone,173.194.204.102,13353,1e100.net,37.41915894,-122.0754089
+Desktop (server),23.204.115.99,5834,akamaitechnologies.com,34.04563904,-118.2416382
+Ring Door bell,208.75.88.4,90,clock.trit.net,40.71429825,-74.00669861
+Google onHub,208.75.88.4,90,clock.trit.net,40.71429825,-74.00669861
+Echo Look,107.13.173.121,35105039,nc.rr.com,35.80915833,-78.64518738
+Desktop (server),23.4.210.58,2111,akamaitechnologies.com,51.51221848,0
+Ring Door bell,162.159.200.123,90,time.cloudflare.com,52.30905151,4.940189838
+Google onHub,162.159.200.123,90,time.cloudflare.com,52.30905151,4.940189838
+Motog Phone,13.225.217.34,11360,r.cloudfront.net,40.75891113,-73.97901917
+Echo plus 2nd gen,13.225.225.202,5516,r.cloudfront.net,40.75891113,-73.97901917
+Echo plus 2nd gen,54.230.139.159,12902,r.cloudfront.net,33.7984581,-84.38828278
+Ring Door bell,45.76.244.202,90,vultr.com,47.61347961,-122.3473816
+Google onHub,45.76.244.202,90,vultr.com,47.61347961,-122.3473816
+Desktop (server),23.206.167.134,5862,akamaitechnologies.com,32.80543137,-96.81423187
+LG smart TV,216.228.192.51,270,tick.eoni.com,45.22111893,-118.2633514
+Echo Look,184.105.182.7,90,ntp3.junkemailfilter.com,37.02072144,-121.5723495
+Google onHub,8.8.4.4,333,dns.google,37.41915894,-122.0754089
+Desktop (server),23.52.93.112,24961,akamaitechnologies.com,37.33052826,-121.8382263
+Desktop (server),23.210.41.126,2594,akamaitechnologies.com,48.91482162,2.381210089
+Ring Door bell,173.255.215.209,90,darwin.kenyonralph.com,37.5669899,-121.9826584
+Google onHub,173.255.215.209,90,darwin.kenyonralph.com,37.5669899,-121.9826584
+LG smart TV,62.112.134.4,90,zurich-seebach.zurich-datacenter.net,47,8
+Google onHub,62.112.134.4,90,zurich-seebach.zurich-datacenter.net,47,8
+Echo Look,199.223.248.100,90,dbsinet.com,41.67761993,-81.3298111
+Desktop (server),23.193.216.83,11259,akamaitechnologies.com,39.99266815,-75.14150238
+Ring Door bell,116.203.149.9,90,clients.your-server.de,49.11594009,10.75339985
+Google onHub,116.203.149.9,90,clients.your-server.de,49.11594009,10.75339985
+Ring Door bell,69.10.161.7,90,net.shastabeam.com,40.52859879,-122.3173523
+Google onHub,69.10.161.7,90,net.shastabeam.com,40.52859879,-122.3173523
+Desktop (server),13.249.122.88,4480,r.cloudfront.net,33.7984581,-84.38828278
+Motog Phone,13.226.102.22,12957,r.cloudfront.net,33.7984581,-84.38828278
+LG smart TV,199.223.248.98,90,dbsinet.com,41.67761993,-81.3298111
+Google onHub,199.223.248.98,90,dbsinet.com,41.67761993,-81.3298111
+LG smart TV,45.63.54.13,90,LAX.CALTICK.NET,34.06555176,-118.2405396
+Google onHub,45.63.54.13,90,LAX.CALTICK.NET,34.06555176,-118.2405396
+Echo Look,66.96.98.9,90,irmt.uplogon.net,45.94477844,-87.96643066
+Nestcam,162.159.200.1,450,time.cloudflare.com,52.30905151,4.940189838
+Desktop (server),184.26.133.85,2847,akamaitechnologies.com,25.76285934,-80.31195831
+Echo Look,172.217.15.78,526,1e100.net,38.98371887,-77.38275909
+LG smart TV,204.2.134.163,90,pacific.latt.net,37.33052826,-121.8382263
+Google onHub,204.2.134.163,90,pacific.latt.net,37.33052826,-121.8382263
+Desktop (server),13.224.215.28,3430,r.cloudfront.net,39.99266815,-75.14150238
+Echo Look,162.159.200.1,90,time.cloudflare.com,52.30905151,4.940189838
+Desktop (server),23.202.233.236,5646,akamaitechnologies.com,41.84885025,-87.67124939
+LG smart TV,142.147.92.5,90,ntp.xtom.com,37.52878952,-121.9103165
+Google onHub,142.147.92.5,90,ntp.xtom.com,37.52878952,-121.9103165
+LG smart TV,173.0.48.220,90,smtp.us.naz.com,47.49010849,-122.2915268
+LG smart TV,13.227.201.53,3048,r.cloudfront.net,40.75891113,-73.97901917
+Google onHub,13.227.201.53,3048,r.cloudfront.net,40.75891113,-73.97901917
+Desktop (server),2.16.209.71,2746,akamaitechnologies.com,48.86022949,2.341069937
